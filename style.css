@@ -1,0 +1,31 @@
+body {
+margin: auto;
+padding: auto;
+}
+
+#one{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+background-color: orange;
+border: 50px solid red;
+position: absolute;
+}
+.two{
+  width: 200px;
+  height: 200px;
+  border-radius: 150%;
+  border: 50px solid yellow;
+  background-color: green;
+  position: absolute ;
+  
+}
+.three{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 50px solid blue;
+  background-color: purple;
+  position: absolute;
+}
+ 
