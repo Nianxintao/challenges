@@ -1,31 +1,33 @@
 body {
 margin: auto;
-padding: auto;
 }
-
 #one{
-width: 300px;
-height: 300px;
+width: 250px;
+height: 250px;
 border-radius: 50%;
 background-color: orange;
-border: 50px solid red;
+border: 25px solid red;
 position: absolute;
+top: 100;
 }
 .two{
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 150%;
-  border: 50px solid yellow;
+  border: 25px solid yellow;
   background-color: green;
-  position: absolute ;
-  
+  position: absolute;
+  top: 150;
+  left: 50;
 }
 .three{
-  width: 100px;
-  height: 100px;
-  border-radius: 100%;
-  border: 50px solid blue;
-  background-color: purple;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 25px solid royalblue;
+  background-color: rebeccapurple;
   position: absolute;
+  top: 200;
+  left: 100;
 }
  
